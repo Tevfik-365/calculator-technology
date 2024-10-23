@@ -1,0 +1,4 @@
+{name} , {email} , {date} , {address}            {{name}} , {{email}} , {{date}} , {{address}}/{{name}} , {{email}} , {{date}} , {{address}}/{name} , {email} , {date} , {address}/Name: Tevfik Tuzen 
+ Email: te@gmail.com 
+ Adres: xxvdzczssxczx 
+ Gün: 2024-10-12
