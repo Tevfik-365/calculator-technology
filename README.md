@@ -1,1 +1,1 @@
-this is a household electricity calculator (there is also a form).
+This is a household electricity calculator (there is also a form).
